@@ -1,0 +1,36 @@
+---
+title: "discussion rmd tips"
+author: "Bri Baker"
+date: "1/26/2021"
+output: 
+  html_document:
+    theme: darkly
+    toc: true
+    toc_float: true
+    number_sections: true
+    code_folding: hide
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Introduction
+
+## Background
+
+### chapter 1
+
+#### chapter 1 a
+
+```{r}
+# nice here is some code
+4+4
+```
+
+
+## The second act
+
+# chapter 24
+
+### section
